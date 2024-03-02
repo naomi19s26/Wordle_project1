@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Wordle App](https://example.com/path/to/image.jpg)
+![Wordle App](https://github.com/naomi19s26/Wordle_project1/blob/master/wordle.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
